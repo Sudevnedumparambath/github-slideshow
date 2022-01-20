@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"There is NO bad time to do GOOD THings"
 Use the left arrow to go back!
